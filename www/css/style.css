@@ -1,0 +1,148 @@
+﻿.correct {
+	background-color:green;
+}
+
+.incorrect {
+	background-color:red;	
+}
+
+.input_word {
+  font-size: 30px;
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+}
+
+#row_right {
+  float: right;
+  width: 40%;
+}
+
+#row_left {
+  float: left;
+  width: 60%;
+}
+
+.title {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Candal';
+  color: #387EF5;
+}
+
+.numbers{
+    background-color:blue;
+    font-size:20px;
+    color:white;
+}
+
+.button{
+    margin:10px;
+}
+
+.words{
+    width: 100px;
+    text-align: center;
+}
+
+.dictItem {
+    padding: 0px;
+}
+
+.dictRow {
+  padding: 0px;
+}
+
+#number {
+    text-align:center;
+    font-size:80px;
+}
+
+#dictionary_index {
+  width: 100px;
+  text-align: center;
+  font-size: 25px;
+  background-color: #387EF5;
+  padding: 20px;
+  color: white;
+}
+
+#dictionary_button {
+ width: 40%;
+}
+
+#numbertable_button {
+  width: 40%;
+}
+
+#submitButton {
+  margin-top: 0px;
+  text-align: center;
+
+}
+
+.bottom_wrapper {
+  position: absolute;
+  bottom: 5%;
+  width: 100%;
+}
+
+#instruction_progress {
+  font-size: 60px;
+  margin-left: 40%;
+  margin-right: 40%;
+  margin-bottom: 50px;
+}
+
+.progress_point {
+  float: left;
+  width: 20%;
+  color: #CCC;
+}
+
+#progress_actual {
+  width: 30%;
+  margin-right: 35%;
+  margin-left: 35%; 
+  color: #000;
+  position: absolute;
+}
+
+.visited {
+  color: black;
+}
+
+.bottom_button {
+  padding-right: 20px;
+  margin-right: 35%;
+  margin-left: 35%;
+  width: 30%; 
+}
+
+.inline_image {
+  padding-left: 5%;
+  padding-right: 5%;
+  max-height: auto;
+  max-width: 100%;
+  display: block;
+}
+
+#logo {
+  width: 30%;
+  margin-right: 35%;
+  margin-left: 35%;
+}
+
+.result_number {
+  margin-left: 5%;
+  width: 90%;
+  margin-right: 5%;
+  color: #387EF5;
+  font-family: 'Candal';
+}
+
+.result_text {
+  margin-left: 5%;
+  width: 90%;
+  margin-right: 5%;
+  font-size: 20px;
+}

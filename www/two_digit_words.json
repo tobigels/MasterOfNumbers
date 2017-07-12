@@ -1,0 +1,403 @@
+[
+	{
+		"id": 0,
+		"words": ["asse"]
+	},
+	{
+		"id": 1,
+		"words": ["tee","tau","otto"]
+	},
+	{
+		"id": 2,
+		"words": ["neu","nie"]
+	},
+	{
+		"id": 3,
+		"words": ["oma","emu"]
+	},
+	{
+		"id": 4,
+		"words": ["rau","ara"]
+	},
+	{
+		"id": 5,
+		"words": ["allee","lau"]
+	},
+	{
+		"id": 6,
+		"words": ["gau","ja"]
+	},
+	{
+		"id": 7,
+		"words": ["kai","akku"]
+	},
+	{
+		"id": 8,
+		"words": ["fee","wie"]
+	},
+	{
+		"id": 9,
+		"words": ["oboe","opa"]
+	},
+	{
+		"id": 10,
+		"words": ["tasse","dose"]
+	},
+	{
+		"id": 11,
+		"words": ["duett","etat"]
+	},
+	{
+		"id": 12,
+		"words": ["tanne","daune"]
+	},
+	{
+		"id": 13,
+		"words": ["damm","team"]
+	},
+	{
+		"id": 14,
+		"words": ["tor","otter"]
+	},
+	{
+		"id": 15,
+		"words": ["tal","dell"]
+	},
+	{
+		"id": 16,
+		"words": ["dojo","doha"]
+	},
+	{
+		"id": 17,
+		"words": ["dock","doku"]
+	},
+	{
+		"id": 18,
+		"words": ["tief","diva"]
+	},
+	{
+		"id": 19,
+		"words": ["adobe","taube"]
+	},
+	{
+		"id": 20,
+		"words": ["nuss","nazi"]
+	},
+	{
+		"id": 21,
+		"words": ["not","ente"]
+	},
+	{
+		"id": 22,
+		"words": ["nein","neon"]
+	},
+	{
+		"id": 23,
+		"words": ["name","nemo"]
+	},
+	{
+		"id": 24,
+		"words": ["niere","nero"]
+	},
+	{
+		"id": 25,
+		"words": ["nil","null"]
+	},
+	{
+		"id": 26,
+		"words": ["naja","nah"]
+	},
+	{
+		"id": 27,
+		"words": ["unke","anke"]
+	},
+	{
+		"id": 28,
+		"words": ["niveau","naiv"]
+	},
+	{
+		"id": 29,
+		"words": ["anbau","einbau"]
+	},
+	{
+		"id": 30,
+		"words": ["messe","masse"]
+	},
+	{
+		"id": 31,
+		"words": ["motto","mode"]
+	},
+	{
+		"id": 32,
+		"words": ["mann","omen"]
+	},
+	{
+		"id": 33,
+		"words": ["memo","mama"]
+	},
+	{
+		"id": 34,
+		"words": ["meer","eimer"]
+	},
+	{
+		"id": 35,
+		"words": ["mail","meile"]
+	},
+	{
+		"id": 36,
+		"words": ["maja","mayo"]
+	},
+	{
+		"id": 37,
+		"words": ["mac","mekka"]
+	},
+	{
+		"id": 38,
+		"words": ["mafia","mief"]
+	},
+	{
+		"id": 39,
+		"words": ["moby","mappe"]
+	},
+	{
+		"id": 40,
+		"words": ["reis","riese"]
+	},
+	{
+		"id": 41,
+		"words": ["rate","ratte"]
+	},
+	{
+		"id": 42,
+		"words": ["rinne","arena"]
+	},
+	{
+		"id": 43,
+		"words": ["nuss","nazi"]
+	},
+	{
+		"id": 44,
+		"words": ["rar","arier"]
+	},
+	{
+		"id": 45,
+		"words": ["aral","areal"]
+	},
+	{
+		"id": 46,
+		"words": ["rage","roh"]
+	},
+	{
+		"id": 47,
+		"words": ["rock","reck"]
+	},
+	{
+		"i": 48,
+		"words": ["rewe","riff"]
+	},
+	{
+		"id": 49,
+		"words": ["raub","europa"]
+	},
+	{
+		"id": 50,
+		"words": ["lasso","leise"]
+	},
+	{
+		"id": 51,
+		"words": ["latte","aldi"]
+	},
+	{
+		"id": 52,
+		"words": ["leine","laune"]
+	},
+	{
+		"id": 53,
+		"words": ["lamm","lama"]
+	},
+	{
+		"id": 54,
+		"words": ["lara","lore"]
+	},
+	{
+		"id": 55,
+		"words": ["lilie","lol"]
+	},
+	{
+		"id": 56,
+		"words": ["leihe","loge"]
+	},
+	{
+		"id": 57,
+		"words": ["lack","lok"]
+	},
+	{
+		"id": 58,
+		"words": ["olive","elfe"]
+	},
+	{
+		"id": 59,
+		"words": ["leib","lupe"]
+	},
+	{
+		"id": 60,
+		"words": ["hass","hase"]
+	},
+	{
+		"id": 61,
+		"words": ["yeti","judo"]
+	},
+	{
+		"id": 62,
+		"words": ["jena","juni"]
+	},
+	{
+		"id": 63,
+		"words": ["home","heim"]
+	},
+	{
+		"id": 64,
+		"words": ["jura","haar"]
+	},
+	{
+		"id": 65,
+		"words": ["hallo","juli"]
+	},
+	{
+		"id": 66,
+		"words": ["jojo","hege"]
+	},
+	{
+		"id": 67,
+		"words": ["hack","jacke"]
+	},
+	{
+		"id": 68,
+		"words": ["hufe","hof"]
+	},
+	{
+		"id": 69,
+		"words": ["haube","job"]
+	},
+	{
+		"id": 70,
+		"words": ["kuss","kasse"]
+	},
+	{
+		"id": 71,
+		"words": ["akte","kita"]
+	},
+	{
+		"id": 72,
+		"words": ["kanne","akne"]
+	},
+	{
+		"id": 73,
+		"words": ["kamm","keim"]
+	},
+	{
+		"id": 74,
+		"words": ["kira","kur"]
+	},
+	{
+		"id": 75,
+		"words": ["kilo","klee"]
+	},
+	{
+		"id": 76,
+		"words": ["koje","kuh"]
+	},
+	{
+		"id": 77,
+		"words": ["kakao","cookie"]
+	},
+	{
+		"id": 78,
+		"words": ["kufe","kauf"]
+	},
+	{
+		"id": 79,
+		"words": ["kappe","cpu"]
+	},
+	{
+		"id": 80,
+		"words": ["fass","visa"]
+	},
+	{
+		"id": 81,
+		"words": ["fett","fete"]
+	},
+	{
+		"id": 82,
+		"words": ["ofen","wien"]
+	},
+	{
+		"id": 83,
+		"words": ["wm","vom"]
+	},
+	{
+		"id": 84,
+		"words": ["vier","eifer"]
+	},
+	{
+		"id": 85,
+		"words": ["fall","fell"]
+	},
+	{
+		"id": 86,
+		"words": ["fiji","fog"]
+	},
+	{
+		"id": 87,
+		"words": ["wok","fake"]
+	},
+	{
+		"id": 88,
+		"words": ["vw","waffe"]
+	},
+	{
+		"id": 89,
+		"words": ["wabe","weib"]
+	},
+	{
+		"id": 90,
+		"words": ["boss","bus"]
+	},
+	{
+		"id": 91,
+		"words": ["bot","pate"]
+	},
+	{
+		"id": 92,
+		"words": ["panne","bann"]
+	},
+	{
+		"id": 93,
+		"words": ["puma","baum"]
+	},
+	{
+		"id": 94,
+		"words": ["bier","paar"]
+	},
+	{
+		"id": 95,
+		"words": ["ball","bello"]
+	},
+	{
+		"id": 96,
+		"words": ["page","baja"]
+	},
+	{
+		"id": 97,
+		"words": ["pack","bock"]
+	},
+	{
+		"id": 98,
+		"words": ["pfau","buw"]
+	},
+	{
+		"id": 99,
+		"words": ["papa","bob"]
+	}
+
+]

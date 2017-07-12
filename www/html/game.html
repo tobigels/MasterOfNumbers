@@ -1,0 +1,23 @@
+<ion-view view-title="Training">
+    <ion-content>
+        <div id="topSection" style="opacity:1">
+            <h1 class="title">Welches Wort passt?</h1>
+            <h1 id="number"></h1>
+            <a id="tipsButton" class="button button-positive" ng-click="showTips()">Tipp</a>
+            <ul id="tips" style="display:none" class="list">
+                <li id="tipstext" class="item" ng-repeat="x in singleArray[0] track by $index"> {{ x }}</li>
+            </ul>
+            <div class="row">
+                <div id="row_left">
+                    <label class="item item-input">
+                        <input id="inputText" type="text" placeholder="dein Wort...">
+                    </label>
+                </div>
+                <div id="row_right">
+                    <a id="submitButton" class="button button-block icon-right ion-chevron-right button-positive" ng-click="wordSubmitted()">Submit</a>
+                </div>
+            </div>
+            <a class="button icon-right ion-help-buoy button-positive" ng-click="helpNeeded()">Hilfe</a>
+        </div>
+</ion-content>
+</ion-view>

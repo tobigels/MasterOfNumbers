@@ -1,0 +1,22 @@
+<ion-view view-title="Dictionary">
+    <ion-content>
+        <h1 class="title">Dictionary</h1>
+        <ion-list>
+            <div id="dictionary_button">
+                <a class="button button-block icon-left ion-chevron-left button-positive" href="#/home">Back</a>
+            </div>
+            <div id="listWrapper">
+                <ul id="dictContent" class="list">
+                    <li class="item dictItem" ng-repeat="x in wordsArray track by $index">
+                        <div class="row dictRow">
+                            <h2 id="dictionary_index">{{ x.id }}</h2>
+                            <div class="row">
+                                <h2 class="words" ng-repeat="x in x.words track by $index">{{ x }}</h2>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </ion-list>
+    </ion-content>
+</ion-view>
